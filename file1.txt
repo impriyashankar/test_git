@@ -1,3 +1,4 @@
 Two heads are better than one.
 A bird in hand is worth two in the bush.
 --Fetch test 2 ..including line for origin change
+--Test for pull
