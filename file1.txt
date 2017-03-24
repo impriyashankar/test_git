@@ -1,3 +1,2 @@
 Two heads are better than one.
---Changing for implementing hotfix.
 A bird in hand is worth two in the bush.
